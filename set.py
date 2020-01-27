@@ -11,3 +11,7 @@ print(test1)
 print(test1 | test2)		# all the unique character set
 
 print(test1-test2)			# as planned
+
+print(test1 & test2)		# comman in both
+
+print(test1 ^ test2)		# letters in test1 or test2 but not in bo
