@@ -1,7 +1,7 @@
-# Readme file
+## Table of content
 
 | Problem Id |      Problem nam     | Diff. level |
 | ---------- |:--------------------:| -----------:|
-| 1          | Two Sum              | Easy       |
-| 485        | Max Consecutive Ones |   Easy       |
+| 1          | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy       |
+| 485        | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |   Easy       |
 |            |        |              |
