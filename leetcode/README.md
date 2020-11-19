@@ -11,7 +11,7 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|`Easy`|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|`Easy`|
 |1520|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|`Easy`|
-||[]()|``|
+|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
