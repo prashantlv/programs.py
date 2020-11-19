@@ -12,7 +12,7 @@
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|`Easy`|
 |1520|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|`Easy`|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|`Easy`|
-||[]()|``|
+|1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
