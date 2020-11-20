@@ -13,12 +13,12 @@
 |1520|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|`Easy`|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|`Easy`|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|`Easy`|
-||[]()|``|
-||[]()|``|
-||[]()|``|
-||[]()|``|
-||[]()|``|
-||[]()|``|
+|1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|`Easy`|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|`Easy`|
+|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|`Easy`|
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|`Easy`|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|`Easy`|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
