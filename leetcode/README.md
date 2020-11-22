@@ -19,7 +19,7 @@
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|`Easy`|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|`Easy`|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|`Easy`|
-||[]()|``|
+|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
