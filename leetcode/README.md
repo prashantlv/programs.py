@@ -23,4 +23,4 @@
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|`Easy`|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|`Easy`|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|`Easy`|
-| |[]()|``|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|`Easy`|
