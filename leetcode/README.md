@@ -25,6 +25,6 @@
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|`Easy`|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|`Easy`|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|`Medium`|
-||[]()|``|
-||[]()|``|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|`Hard`|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|`Easy`|
 ||[]()|``|
