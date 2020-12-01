@@ -3,4 +3,4 @@ class Solution:
         maxi = 0
         for i in range(len(accounts)):
             maxi = max(maxi,sum(accounts[i]))
-        return maxi
+        return maxiY8TMDCD2CE

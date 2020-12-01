@@ -28,3 +28,6 @@
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|`Hard`|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|`Easy`|
 ||[]()|``|
+||[]()|``|
+||[]()|``|
+||[]()|``|
