@@ -27,7 +27,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|`Medium`|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|`Hard`|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|`Easy`|
-||[]()|``|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
