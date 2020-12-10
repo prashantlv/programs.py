@@ -4,5 +4,5 @@ class Solution:
             return nums.index(target)
         else:
             nums.append(target)
-            nums.sort
+            nums.sort()
             return nums.index(target)
