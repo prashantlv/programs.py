@@ -32,4 +32,4 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|`Medium`|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|`Easy`|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|`Easy`|
-||[]()||
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|`Easy`|
