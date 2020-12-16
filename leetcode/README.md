@@ -33,3 +33,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|`Easy`|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|`Easy`|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|`Easy`|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|`Easy`|
+||[]()|``|
+||[]()|``|
+||[]()|``|
