@@ -6,3 +6,6 @@ class Solution:
             if letter in J:
                 count += 1
         return count
+
+# Another one 
+# return sum([S.count(j) for j in set(J)])        
