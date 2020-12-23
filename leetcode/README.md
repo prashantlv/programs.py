@@ -37,8 +37,8 @@
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|`Easy`|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|`Easy`|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|`Easy`|
-||[]()|``|
-||[]()|``|
+|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|`Easy`|
+|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
