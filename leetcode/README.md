@@ -40,7 +40,7 @@
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|`Easy`|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|`Easy`|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|`Easy`|
-||[]()|``|
-||[]()|``|
+|1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|`Easy`|
+|1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
