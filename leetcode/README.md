@@ -44,7 +44,7 @@
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|`Easy`|
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|`Easy`|
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|`Easy`|
-||[]()|``|
+|1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
