@@ -13,7 +13,7 @@
 |977A|[Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)|`800`|
 |116A|[Tram](https://codeforces.com/problemset/problem/116/A)|`800`|
 |546A|[Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)|``|
-||[]()|``|
+|59A|[Word](https://codeforces.com/problemset/problem/59/A)|`800`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
