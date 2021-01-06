@@ -10,6 +10,6 @@
 |158A|[Next Round](https://codeforces.com/problemset/problem/158/A)|`800`|
 |236A|[Boy or Girl](https://codeforces.com/problemset/problem/236/A)|`800`|
 |112A|[Petya and Strings](https://codeforces.com/problemset/problem/112/A)|`800`|
-||[]()|``|
+|977A|[Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)|`800`|
 ||[]()|``|
 ||[]()|``|
