@@ -45,7 +45,7 @@
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|`Easy`|
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|`Easy`|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|`Easy`|
-||[]()|``|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
