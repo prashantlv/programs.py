@@ -46,7 +46,7 @@
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|`Easy`|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|`Easy`|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|`Easy`|
-||[]()|``|
+|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
