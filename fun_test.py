@@ -12,6 +12,3 @@ for x in range(ln):
 			temp=temp//10
 			if sum==arr[x]:
 				print(sum)
-			
-
-
