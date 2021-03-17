@@ -10,4 +10,3 @@ if __name__ =="__main__":
     l = int(input())
     arr = list(map(int, inut().split()))
     main(l,arr)
-#dsdsd
