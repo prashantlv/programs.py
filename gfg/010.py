@@ -1,13 +1,17 @@
-def main(l,arr):
-    #numofjumps = []
-    minimumjumps = 0
-    for i in range(l):
-        for j in range(i):
-           if arr[i]>=j:
-               minimumjumps += 1
-    print(minimumjumps)
+def decideJump(arr,n,currentPos=0):
+    if arr[currentPos] == 0:
+        return -1
+    else:    
+        maxSteps = arr[currentPos]
+        minJump=1
+        while maxSteps > 0:
+            minJump = min(minJump, 1+decideJump(arr,n,currentPos+maxSteps))
+            currentPos += minJump
+            maxSteps -= 1
+        return minJump     
 
 if __name__ =="__main__":
-    l = int(input())
+    n = int(input())
     arr = list(map(int, input().split()))
-    main(l,arr)
+    result = decideJump(arr,n)
+    print(result)
