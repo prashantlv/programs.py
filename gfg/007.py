@@ -1,6 +1,5 @@
 #approach 01 with pop()
 
-
 def rotate( arr, n):
     for i in range(1):
         arr.insert(0,arr.pop())
@@ -27,4 +26,3 @@ if __name__ == '__main__':
 	arr = map(int, input().split())
 	k = int(input())
 	main(list(arr),k)
-
