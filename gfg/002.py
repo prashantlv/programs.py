@@ -16,7 +16,7 @@ if __name__=='__main__':
 
 #-----------------------------------------------
 
-#min max of array thr class
+#min max of array thr class [Linear search]
 class pair:
     def __init__(self):
         self.min = 0

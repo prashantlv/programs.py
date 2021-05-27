@@ -1,4 +1,3 @@
-
 def sort012(arr,n):
     # code here
     a = []
