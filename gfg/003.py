@@ -1,46 +1,28 @@
-def sort012(arr,n):
-    # code here
-    a = []
-    zero,one,two = 0,0,0
-    # for _ in range(n):
-    #     a.append(min(arr))
-    #     arr.remove(min(arr))
-    # arr = a.copy 
-#-----------------bcoz no other array has to be used    
-    for i in range(n):
-        if arr[i] == 0:
-            zero += 1
-        elif arr[i] == 1:
-            one += 1
-        else:
-            two += 1
-    i =0        
-    while zero > 0:
-        arr[i] = 0
-        i += 1
-        zero -= 1
-    while one > 0:
-        arr[i] = 1
-        i += 1
-        one -= 1
-    while two > 0:
-        arr[i] = 2
-        i += 1
-        two -= 1
-        
-    
+
+class Solution:
+    def kthSmallest(self,arr, l, r, k):
+        '''
+        arr : given array
+        l : starting index of the array i.e 0
+        r : ending index of the array i.e size-1
+        k : find kth smallest element and return using this function
+        '''
+        for i in range(k-1):
+            arr.remove(min(arr))
+        return min(arr)    
 #{ 
 #  Driver Code Starts
 #Initial Template for Python 3
 
-if __name__ == '__main__':
+#contributed by RavinderSinghPB
+if __name__ == '__main__': 
+    import random 
     t=int(input())
-    for _ in range(t):
+    for tcs in range(t):
         n=int(input())
-        arr=[int(x) for x in input().strip().split()]
-        sort012(arr,n)
-        for i in arr:
-            print(i, end=' ')
-        print()
-
+        arr=list(map(int,input().strip().split()))
+        k=int(input())
+        ob=Solution()
+        print(ob.kthSmallest(arr, 0, n-1, k))
+        
 # } Driver Code Ends
