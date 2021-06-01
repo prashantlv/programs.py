@@ -49,7 +49,7 @@
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|`Easy`|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|`Easy`|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|`Easy`|
-||[]()|``|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|`Easy`|
 ||[]()|``|
 ||[]()|``|
 ||[]()|``|
