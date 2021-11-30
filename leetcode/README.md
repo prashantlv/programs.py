@@ -50,7 +50,7 @@
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|`Easy`|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|`Easy`|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|`Easy`|
-||[]()|``|
-||[]()|``|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|`Easy`|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|`Easy`|
 ||[]()|``|
 
