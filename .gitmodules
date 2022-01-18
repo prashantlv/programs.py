@@ -1,0 +1,3 @@
+[submodule "python-DS-practice"]
+	path = python-DS-practice
+	url = git@github.com:prashantlv/python-DS-practice.git
