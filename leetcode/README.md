@@ -52,5 +52,5 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|`Easy`|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|`Easy`|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|`Easy`|
-||[]()|''|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|'Easy'|
 
