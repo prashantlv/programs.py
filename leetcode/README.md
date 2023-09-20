@@ -54,4 +54,6 @@
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|`Easy`|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|'Easy'|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|`Easy`|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|`Medium`|
+
 
